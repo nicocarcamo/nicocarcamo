@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Nicolás</h1>
+<h1 align="center">Hi 👋, I'm Nicolás!</h1>
 <h3 align="center">I'm a junior full-stack developer from Chile 🇨🇱, i have a passion for creating user-friendly, visually appealing, and highly functional products that engage users and deliver results. My experience has allowed me to develop a keen eye for detail, a love for clean code, and the ability to contribute and support projects from start to finish.</h3>
 
 - 🔭 I’m currently looking for **work as junior developer**
