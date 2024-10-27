@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋🏼, I'm Nicolás!</h1>
-<h3 align="center">I'm a junior full-stack developer from Chile 🇨🇱, i have a passion for creating user-friendly, visually appealing, and highly functional products that engage users and deliver results. My experience has allowed me to develop a keen eye for detail, a love for clean code, and the ability to contribute and support projects from start to finish.</h3>
+<h3 align="center">I'm a software developer from Chile 🇨🇱. I like playing MTG and riding bikes with my friends, chill at home with my cool partner and our cats, and geeking about tech nerdy stuff with like-minded people.</h3>
 
-- 🔭 I’m currently looking for **work as junior developer**
+- 🔭 I curently work as a backend software engineer at Equifax. We develop and mantain an awesome cloud-native data managment platform called Data Fabric!
 
 - 👨🏻‍💻 I studied Full Stack Web Development at [4Geeks Academy](https://4geeksacademy.com)
 
