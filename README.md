@@ -13,18 +13,22 @@
 
 <h3 align="left">Feel free to contact me:</h3>
 <p align="left">
-<a href="mailto:nicolascarcamonaccarino@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="nicolascarcamonaccarino@gmail.com" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/nicolascarcamonaccarino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolascarcamonaccarino" height="30" width="40" /></a>
+  <a href="mailto:nicolascarcamonaccarino@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="nicolascarcamonaccarino@gmail.com" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/nicolascarcamonaccarino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolascarcamonaccarino" height="30" width="40" /></a>
   <a href="https://twitter.com/nicolascarcamon" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="nicolascarcamon" height="40" width="40" /></a>
   <a href="https://www.instagram.com/nicocarcamonaccarino" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="nicocarcamonaccarino" height="40" width="40" /></a>
   <a href="https://www.codewars.com/users/nicocarcamo" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="nicocarcamo" height="40" width="40" /></a>
   <a href="https://www.strava.com/athletes/4483964" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/323_Strava_logo-512.png" alt="4483964" height="40" width="40" /></a>
-
 </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a><img src="https://www.oracle.com/img/tech/cb88-java-logo-001.jpg" width="80" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a target="blank"><img align="center" src="https://www.tigabytes.com/wp-content/uploads/2023/11/GCP-Mi.png" alt="4483964" height="40" width="40" /></a></p>
+<p align="left">
+  <a><img src="https://www.oracle.com/img/tech/cb88-java-logo-001.jpg" width="80" height="40"/></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a target="blank"><img align="center" src="https://www.tigabytes.com/wp-content/uploads/2023/11/GCP-Mi.png" alt="4483964" height="40" width="40" /></a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicocarcamo&show_icons=true&locale=en&layout=compact" alt="nicocarcamo" /></p>
 
