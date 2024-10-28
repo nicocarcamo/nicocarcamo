@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋🏼, I'm Nicolás!</h1>
 <h3 align="center">I'm a software developer from Chile 🇨🇱. I like playing MTG and riding bikes with my friends, chill at home with my cool partner and our cats, and geeking about tech nerdy stuff with like-minded people.</h3>
 
-- 🔭 I curently work as a backend software engineer at [Equifax](https://www.equifax.com/), a world class consumer credit and financial analysis bureau. We develop and mantain an awesome cloud-native data managment platform called Data Fabric!
+- 🔭 I curently work as a backend software engineer at [Equifax](https://www.equifax.com/), a world class consumer credit and data analysis bureau. We develop and mantain an awesome cloud-native data managment platform called Data Fabric!
 
 - 👨🏻‍💻 I studied Full Stack Web Development at [4Geeks Academy](https://4geeksacademy.com)
 
