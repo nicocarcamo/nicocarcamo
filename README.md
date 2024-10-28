@@ -24,7 +24,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a><img src="https://www.oracle.com/img/tech/cb88-java-logo-001.jpg" width="80" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a target="blank"><img align="center" src="https://ausum.cloud/wp-content/uploads/2024/04/0_r4wOvRFGy78MfMh4.png" alt="4483964" height="40" width="40" /></a></p>
+<p align="left"><a><img src="https://www.oracle.com/img/tech/cb88-java-logo-001.jpg" width="80" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a target="blank"><img align="center" src="https://www.logo.wine/a/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.svg" alt="4483964" height="40" width="80" /></a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicocarcamo&show_icons=true&locale=en&layout=compact" alt="nicocarcamo" /></p>
 
