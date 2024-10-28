@@ -27,7 +27,7 @@
   <a><img src="https://www.oracle.com/img/tech/cb88-java-logo-001.jpg" width="80" height="40"/></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a target="blank"><img align="center" src="https://www.tigabytes.com/wp-content/uploads/2023/11/GCP-Mi.png" alt="4483964" height="40" width="40" padding-bottom="25" /></a>
+  <a target="blank"><img align="center" src="https://www.tigabytes.com/wp-content/uploads/2023/11/GCP-Mi.png" alt="4483964" height="40" width="40" padding-bottom="25px" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicocarcamo&show_icons=true&locale=en&layout=compact" alt="nicocarcamo" /></p>
